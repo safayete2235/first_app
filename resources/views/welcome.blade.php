@@ -16,6 +16,6 @@
         </style>
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-<h1>hello asir</h1>
+<h1>my name is nava</h1>
     </body>
 </html>
